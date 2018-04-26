@@ -75,7 +75,7 @@ states_by_name = {
         "longitude": -86.2604
     },
     "Kansas": {
-        "state": "KA",
+        "state": "KS",
         "latitude": 38.5111,
         "longitude": -96.8005
     },

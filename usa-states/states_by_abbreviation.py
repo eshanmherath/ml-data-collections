@@ -74,7 +74,7 @@ states_by_abbreviation = {
         "latitude": 39.8647,
         "longitude": -86.2604
     },
-    "KA": {
+    "KS": {
         "state": "Kansas",
         "latitude": 38.5111,
         "longitude": -96.8005
